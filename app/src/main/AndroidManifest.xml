@@ -15,6 +15,14 @@
             </intent-filter>
         </activity>
         
+        
+        <activity android:name=".DialogActivity">
+        </activity>
+        
+        <activity android:name=".ListActivity">
+        </activity>    
+        
+        
     </application>
 
 </manifest>

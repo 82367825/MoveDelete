@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.zero.movedelete.MoveRelativeLayout
+        android:id="@+id/move_layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="新消息,左滑或者右滑可删除"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.zero.movedelete.MoveRelativeLayout>
+
+    <com.zero.movedelete.MoveRelativeLayout
+        android:id="@+id/move_layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="新消息,左滑或者右滑可删除"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.zero.movedelete.MoveRelativeLayout>
+
+
+    <com.zero.movedelete.MoveRelativeLayout
+        android:id="@+id/move_layout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="新消息,左滑或者右滑可删除"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.zero.movedelete.MoveRelativeLayout>
+
+    <com.zero.movedelete.MoveRelativeLayout
+        android:id="@+id/move_layout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="新消息,左滑或者右滑可删除"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.zero.movedelete.MoveRelativeLayout>
+    
+</LinearLayout>

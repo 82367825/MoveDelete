@@ -4,18 +4,16 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
     
-    <com.zero.movedelete.MoveRelativeLayout
-        android:id="@+id/move_layout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        
-        <Button
-            android:id="@+id/button"
-            android:text="move then delete me"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-        
-    </com.zero.movedelete.MoveRelativeLayout>
-    
+    <Button
+        android:id="@+id/dialog"
+        android:text="dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
+    <Button
+        android:id="@+id/list"
+        android:text="list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
 </LinearLayout>
